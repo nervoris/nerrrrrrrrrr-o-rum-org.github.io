@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="refresh" content="0; url=https://nervorum.org/" />
+  <title>Redirecting...</title>
+  <script>
+    window.location.href = "https://nervorum.org/";
+  </script>
+</head>
+<body>
+  Redirecting... If not, <a href="https://nervorum.org/">click here</a>.
+</body>
+</html>
